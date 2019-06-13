@@ -1,3 +1,4 @@
 test.txt file in c:\git\project\gitproj
-
 Testing testing ...
+line 3
+line 4
